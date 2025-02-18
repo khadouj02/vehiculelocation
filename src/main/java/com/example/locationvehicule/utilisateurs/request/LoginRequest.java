@@ -1,4 +1,4 @@
-package com.example.locationvehicule.vehicule.request;
+package com.example.locationvehicule.utilisateurs.request;
 
 import jakarta.validation.constraints.NotBlank;
 

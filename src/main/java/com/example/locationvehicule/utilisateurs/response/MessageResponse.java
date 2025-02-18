@@ -1,4 +1,4 @@
-package com.example.locationvehicule.vehicule.response;
+package com.example.locationvehicule.utilisateurs.response;
 
 public class MessageResponse {
   private String message;
